@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7BLKvDDudoa1GrpVSiCZwgFWStufioL0Dw6nQMIC0VwTpJLWAyAXah9x7zyiN8/K72JHrtRr3WeZP2ZQu6rog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinicius\\source\\repos\\maquinaDoce\\maquinaDoce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
